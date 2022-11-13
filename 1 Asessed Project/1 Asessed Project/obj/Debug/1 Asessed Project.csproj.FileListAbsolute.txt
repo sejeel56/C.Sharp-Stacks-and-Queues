@@ -1,0 +1,16 @@
+C:\Users\21360495\OneDrive - MMU\C# Assessed Project\1 Asessed Project\1 Asessed Project\obj\Debug\1 Asessed Project.csproj.AssemblyReference.cache
+C:\Users\21360495\OneDrive - MMU\C# Assessed Project\1 Asessed Project\1 Asessed Project\obj\Debug\1 Asessed Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\21360495\OneDrive - MMU\C# Assessed Project\1 Asessed Project\1 Asessed Project\obj\Debug\1 Asessed Project.csproj.CoreCompileInputs.cache
+C:\Users\21360495\OneDrive - MMU\C# Assessed Project\1 Asessed Project\1 Asessed Project\bin\Debug\1 Asessed Project.exe.config
+C:\Users\21360495\OneDrive - MMU\C# Assessed Project\1 Asessed Project\1 Asessed Project\bin\Debug\1 Asessed Project.exe
+C:\Users\21360495\OneDrive - MMU\C# Assessed Project\1 Asessed Project\1 Asessed Project\bin\Debug\1 Asessed Project.pdb
+C:\Users\21360495\OneDrive - MMU\C# Assessed Project\1 Asessed Project\1 Asessed Project\obj\Debug\1 Asessed Project.exe
+C:\Users\21360495\OneDrive - MMU\C# Assessed Project\1 Asessed Project\1 Asessed Project\obj\Debug\1 Asessed Project.pdb
+O:\C# Assessed Project\1 Asessed Project\1 Asessed Project\obj\Debug\1 Asessed Project.csproj.AssemblyReference.cache
+O:\C# Assessed Project\1 Asessed Project\1 Asessed Project\obj\Debug\1 Asessed Project.csproj.SuggestedBindingRedirects.cache
+O:\C# Assessed Project\1 Asessed Project\1 Asessed Project\obj\Debug\1 Asessed Project.csproj.CoreCompileInputs.cache
+O:\C# Assessed Project\1 Asessed Project\1 Asessed Project\obj\Debug\1 Asessed Project.exe
+O:\C# Assessed Project\1 Asessed Project\1 Asessed Project\obj\Debug\1 Asessed Project.pdb
+O:\C# Assessed Project\1 Asessed Project\1 Asessed Project\bin\Debug\1 Asessed Project.exe.config
+O:\C# Assessed Project\1 Asessed Project\1 Asessed Project\bin\Debug\1 Asessed Project.exe
+O:\C# Assessed Project\1 Asessed Project\1 Asessed Project\bin\Debug\1 Asessed Project.pdb
